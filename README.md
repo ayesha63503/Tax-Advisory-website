@@ -31,7 +31,8 @@ A modern, animated, and responsive tax advisory website built using **HTML** and
 
 ## 📸 Screenshot
 
-![Website Screenshot](https://via.placeholder.com/1000x600.png?text=Add+Your+Screenshot+Here)
+![Uploading Capture.PNG…]()
+
 
 > You can upload a screenshot to GitHub and use its URL here.
 
