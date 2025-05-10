@@ -48,7 +48,7 @@ This site is deployed using [Netlify](https://www.netlify.com/) and can be easil
 
 ## 📍 Contact Information
 
-**Email**: info@protadvisory.com  
+**Email**: bookbeefinancial@gmail.com
 **Phone**: +1 (406) 555-1234  
 **Address**: 1001 S. Main St. STE 600, Kalispell, MT 59901, USA  
 
